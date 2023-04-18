@@ -1,13 +1,11 @@
-# In the name of Allah, Most Gracious, Most Merciful
+### In the name of Allah, Most Gracious, Most Merciful
 <pre>
-
 ███╗   ███╗██╗██████╗  █████╗ ███╗   ██╗ █████╗       ██████╗ ███████╗
 ████╗ ████║██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗      ██╔══██╗╚══███╔╝
 ██╔████╔██║██║██████╔╝███████║██╔██╗ ██║███████║█████╗██║  ██║  ███╔╝ 
 ██║╚██╔╝██║██║██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚════╝██║  ██║ ███╔╝  
 ██║ ╚═╝ ██║██║██║  ██║██║  ██║██║ ╚████║██║  ██║      ██████╔╝███████╗
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝      ╚═════╝ ╚══════╝
-
 </pre>
 <!--
 **mirana-dz/mirana-dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
