@@ -1,6 +1,7 @@
-### In the name of Allah, Most Gracious, Most Merciful
-
 <div align="center">
+<h1>In the name of Allah, Most Gracious, Most Merciful</h1>
+
+
 <pre>
 ███╗   ███╗██╗██████╗  █████╗ ███╗   ██╗ █████╗       ██████╗ ███████╗
 ████╗ ████║██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗      ██╔══██╗╚══███╔╝
